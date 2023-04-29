@@ -1,0 +1,31 @@
+div.firstDiv{
+  min-height: 100vh;
+}
+
+a.navbar-brand{
+  font-size: 2rem;
+}
+.nav-link{
+  margin-left: 3rem;
+}
+div.carousel-item img{
+  filter: brightness(.5);
+}
+
+@media screen and (max-width:500px) {
+  #trl{
+    
+    font-size: 1rem;
+  }
+  #trl2{
+    font-size: 1.5rem;
+  }
+  #trl3{
+    height: 2.5rem;
+    margin-bottom: -2rem;
+  }
+}
+
+#cp1,#cp2,#cp3{
+  padding-left: 2.2%;
+}

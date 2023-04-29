@@ -1,0 +1,21 @@
+div.firstDiv{
+    min-height: 100vh;
+}
+
+a.navbar-brand{
+    font-size: 2rem;
+}
+.nav-link{
+    margin-left: 3rem;
+}
+
+div.service-item{
+    color: white;
+    outline: 5px solid whitesmoke;
+    border-radius: 1rem;
+}
+
+#tb,#hb{
+    display: none;
+}
+
